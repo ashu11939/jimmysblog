@@ -1,0 +1,27 @@
+.container {
+    padding: 1rem;
+    max-width: 1000px;
+    margin: auto;
+  }
+  
+  .full-width {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+  
+  .card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1rem;
+    margin-top: 1rem;
+  }
+  
+  .post-card {
+    cursor: pointer;
+    transition: transform 0.2s ease;
+  }
+  
+  .post-card:hover {
+    transform: scale(1.02);
+  }
+  
