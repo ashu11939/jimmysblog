@@ -23,8 +23,7 @@
             "baseHref": "/jimmysblog/",
             "assets": [
               "src/favicon.ico",
-              "src/assets",
-              "src/CNAME"
+              "src/assets"
             ],
             "styles": [
               "@angular/material/prebuilt-themes/indigo-pink.css",

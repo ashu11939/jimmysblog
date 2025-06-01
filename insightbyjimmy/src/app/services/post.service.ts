@@ -14,10 +14,10 @@ export class PostService {
   private posts: Post[] = [
     {
       id: 1,
-      title: 'Getting Started with Angular',
+      title: 'A life of constant stuggles',
       imageUrl: 'https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&h=600&fit=crop',
-      description: 'Learn the basics of Angular framework and start building amazing web applications.',
-      content: 'Angular is a powerful framework for building dynamic web applications. In this comprehensive guide, we\'ll explore the fundamentals of Angular, including components, services, routing, and more. Whether you\'re a beginner or looking to refresh your knowledge, this post will provide you with the essential concepts needed to start your Angular journey.'
+      description: 'Money, most of us have a great facination for it',
+      content: 'Money, most of us have a great facination for it. We all want more of it, and we all want it to grow. But how do we make that happen? In this post, we will explore the different ways to make money, and how to make the most of it.'
     },
     {
       id: 2,
